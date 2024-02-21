@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-# **Hi there, I'm *Matteo***
+# **Hi there, I'm *pieruccim***
 
 </div>
 
 <div align="center">
 
-I'm **Matteo Pierucci**, a  MSc student in **Artificial Intelligence and Data Engineering]**  at the University of Pisa.
+I'm **Matteo Pierucci**, a  MSc student in **[Artificial Intelligence and Data Engineering]**  at the University of Pisa.
 
 </div>
 <hr>
