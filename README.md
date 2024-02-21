@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-I'm **Matteo Pierucci**, a  MSc student in **[Artificial Intelligence and Data Engineering]**  at the University of Pisa.
+I'm **Matteo Pierucci**, a  MSc student in **Artificial Intelligence and Data Engineering**  at the University of Pisa.
 
 </div>
 <hr>
@@ -38,17 +38,15 @@ I'm **Matteo Pierucci**, a  MSc student in **[Artificial Intelligence and Data E
 
 ### Coding Languages
 
-![Languages](https://skillicons.dev/icons?i=java,python,c,cpp,html,css,javascript,php&theme=light)
+![Languages](https://skillicons.dev/icons?i=java,python,c,cpp,html,css,javascript,php&perline=3)
 
 ### ML Libraries
 
-![Libraries](https://skillicons.dev/icons?i=pytorch,tensorflow&theme=light)
+![Libraries](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=3)
 
 ### Technologies & Frameworks
 
-![Technologies](https://skillicons.dev/icons?i=linux,git,github&theme=light)
-![Technologies](https://skillicons.dev/icons?i=matlab,mysql,mongodb,&theme=light)
-![Technologies](https://skillicons.dev/icons?i=laravel,androidstudio,latex&theme=light)
+![Technologies](https://skillicons.dev/icons?i=linux,git,github,matlab,mysql,mongodb,laravel,androidstudio,latex&perline=3)
 
 <hr> 
 
