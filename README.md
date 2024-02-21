@@ -13,14 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-<div align="center">
-  <a href="https://tomawk.github.io">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
--->
-
 <div align="center">
   
 # **Hi there, I'm *pieruccim***
@@ -29,7 +21,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-I'm **Matteo Pierucci**, a  MSc student in **Artificial Intelligence and Data Engineering**  at the University of Pisa.
+I'm **Matteo Pierucci**, a passionate MSc student specializing in **Artificial Intelligence and Data Engineering** at the University of Pisa.
 
 </div>
 <hr>
@@ -52,6 +44,6 @@ I'm **Matteo Pierucci**, a  MSc student in **Artificial Intelligence and Data En
 
 <h2 align="center">
 
-You can see all the project and more on my [Personal Website](Link)
+Explore all my projects and more on my [Personal Website](Link)
 
 </h2>
