@@ -31,7 +31,7 @@ I'm **Matteo Pierucci**, a passionate MSc student specializing in **Artificial I
 ### Coding Languages
 
 ![Languages](https://skillicons.dev/icons?i=java,python,c,cpp,html,css,javascript,php)
-<span style="margin: 0px 10px"><img height="48" src="https://github.com/JuliaLang/julia-logo-graphics/blob/master/images/julia-logo-color.png" alt="Erlang" title="Erlang"/></span>
+<span style="margin: 0px 10px"><img height="48" src="https://static-00.iconduck.com/assets.00/julia-icon-512x512-wxn1d5ag.png" alt="Erlang" title="Erlang"/></span>
 
 ### ML Libraries
 
