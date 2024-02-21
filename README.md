@@ -30,16 +30,16 @@ I'm **Matteo Pierucci**, a passionate MSc student specializing in **Artificial I
 
 ### Coding Languages
 
-![Languages](https://skillicons.dev/icons?i=java,python,c,cpp,html,css,javascript,php)
+![Languages](https://skillicons.dev/icons?i=java,python,c,cpp,html,css,javascript,php&theme=light)
 <span style="margin: 0px 10px"><img height="48" src="https://static-00.iconduck.com/assets.00/julia-icon-512x512-wxn1d5ag.png" alt="Erlang" title="Erlang"/></span>
 
 ### ML Libraries
 
-![Libraries](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv)
+![Libraries](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=light)
 
 ### Technologies & Frameworks
 
-![Technologies](https://skillicons.dev/icons?i=linux,git,github,matlab,mysql,mongodb,laravel,androidstudio,docker)
+![Technologies](https://skillicons.dev/icons?i=linux,git,github,matlab,mysql,mongodb,laravel,androidstudio,docker&theme=light)
 
 <hr> 
 
