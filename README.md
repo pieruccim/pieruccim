@@ -38,12 +38,12 @@ I'm **Matteo Pierucci**, a passionate MSc student specializing in **Artificial I
 ![Libraries](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=light)
 <span style="margin: 0px 10px"><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="Pandas" title="Pandas"/></span>
 <span style="margin: 0px 10px"><img height="48" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvtj4KdFU7jmWYeRrQkvVrXutBhv0NQZourbWmG7333Q&s" alt="Numpy" title="Numpy"/></span>
-<span style="margin: 0px 10px"><img height="48" src="https://jupyter.org/assets/share.png" alt="Jupyter" title="Jupyter"/></span>
+<span style="margin: 0px 10px"><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" alt="Jupyter" title="Jupyter"/></span>
 
 ### Databases
 
 ![Technologies](https://skillicons.dev/icons?i=mysql,mongodb&theme=light)
-<span style="margin: 0px 10px"><img height="48" src="[https://jupyter.org/assets/share.png](https://go.neo4j.com/rs/710-RRC-335/images/neo4j_logo_globe.png)" alt="Neo4j" title="Neo4j"/></span>
+<span style="margin: 0px 10px"><img height="48" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmMM3TZIaLrMGsXnY9XIQV-6zo6xSVlMjTXvcVMNlAvjiyWJjV2pjS5Nb_XvuprGAc7Hc&usqp=CAU" alt="Neo4j" title="Neo4j"/></span>
 
 ### Technologies & Frameworks
 
