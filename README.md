@@ -31,7 +31,6 @@ I'm **Matteo Pierucci**, a passionate MSc student specializing in **Artificial I
 ### Coding Languages
 
 ![Languages](https://skillicons.dev/icons?i=java,python,c,cpp,html,css,javascript,php&theme=light)
-<span style="margin: 0px 10px"><img height="48" src="https://static-00.iconduck.com/assets.00/julia-icon-512x512-wxn1d5ag.png" alt="Julia" title="Julia"/></span>
 
 ### ML Libraries
 
