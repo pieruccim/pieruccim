@@ -50,7 +50,7 @@ I'm **Matteo Pierucci**, a passionate MSc student specializing in **Artificial I
 
 <hr> 
 
-<h2 align="center">
+<!--<h2 align="center">
 
 Explore all my projects and more on my [Personal Website](Link)
 
