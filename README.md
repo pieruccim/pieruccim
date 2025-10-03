@@ -46,8 +46,6 @@ I'm **Matteo Pierucci**, a passionate MSc student specializing in **Artificial I
 ### Technologies & Frameworks
 
 ![Technologies](https://skillicons.dev/icons?i=linux,git,github,matlab,laravel,docker&theme=light)
-<span style="margin: 0px 10px"><img height="48" src="https://pcwindows.jp.net/wp-content/uploads/2018/12/Wear-OS-by-Google-Smartwatch-was-Android-Wear-PC-Windows-10-8-7.png" alt="WearOS" title="WearOS"/></span>
-<span style="margin: 0px 10px"><img height="48" src="https://secure.webtoolhub.com/static/resources/icons/set112/7b4a1b6b.png" alt="Android" title="Android"/></span>
 
 
 <hr> 
